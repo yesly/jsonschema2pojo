@@ -10,7 +10,7 @@
 
     <groupId>org.jsonschema2pojo</groupId>
     <artifactId>jsonschema2pojo</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1-FIX</version>
 
     <packaging>pom</packaging>
     <name>jsonschema2pojo</name>
@@ -52,8 +52,8 @@
         <gradle.version>5.6</gradle.version>
         <gson.version>2.5</gson.version>
         <moshi.version>1.5.0</moshi.version>
-        <jackson2x.version>2.9.10</jackson2x.version>
-        <jackson2x.databind.version>2.9.10.7</jackson2x.databind.version>
+        <jackson2x.version>2.12.2</jackson2x.version>
+        <jackson2x.databind.version>2.12.2</jackson2x.databind.version>
     </properties>
 
     <reporting>
